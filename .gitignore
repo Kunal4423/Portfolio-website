@@ -1,0 +1,10 @@
+# Ignore system files and editors
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node modules (if any)
+node_modules/
+
+# VSCode
+.vscode/
